@@ -1,0 +1,24 @@
+{
+  "name": "inches-n-feet-mern",
+  "version": "1.0.0",
+  "description": "Full-Stack MERN (React, Node.js, Express, MongoDB) Clone of Inches & Feet Architecture & Interior Design Studio",
+  "scripts": {
+    "server": "node server/server.js",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "seed": "node server/seed/seedData.js",
+    "test:e2e": "node test_e2e.js"
+  },
+  "keywords": [
+    "react",
+    "nodejs",
+    "mongodb",
+    "express",
+    "inchesnfeet",
+    "architecture",
+    "interior-design",
+    "bim"
+  ],
+  "author": "Antigravity",
+  "license": "ISC"
+}
