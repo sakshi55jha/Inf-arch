@@ -1,6 +1,6 @@
 # Inches & Feet (INF) 
 
-A state-of-the-art, end-to-end full-stack clone of **[Inches & Feet](https://inchesnfeet.com/)** built with **React**, **Node.js (Express)**, and **MongoDB (Mongoose)**.
+A state-of-the-art, end-to-end full-stack **[Inches & Feet](https://inchesnfeet.com/)** built with **React**, **Node.js (Express)**, and **MongoDB (Mongoose)**.
 
 ---
 
